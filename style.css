@@ -29,5 +29,6 @@ a{
 }
 
 .navi a:hover{
+  background-color: green;
   color:#FFEEA8;
 }
