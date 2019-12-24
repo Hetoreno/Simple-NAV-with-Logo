@@ -28,6 +28,6 @@ a{
   padding:1px;
 }
 
-li:hover{
-  background-color: green;
+.navi a:hover{
+  color:#FFEEA8;
 }
