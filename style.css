@@ -3,6 +3,11 @@
   margin: 0;
 }
 
+header{
+  position: fixed;
+  width: 100%;
+}
+
 .headi{
   display: flex;
   justify-content: space-between;
